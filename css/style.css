@@ -20,6 +20,7 @@ body {
 .content {
     font-family: 'PoliticsHeadBold', 'DejaWeb', 'Helvetica Neue', 'Arial', Sans-Serif;
     text-align: center;
+    padding: 0;
 }
 
 .headline {
